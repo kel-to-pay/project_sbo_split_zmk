@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: adafruit_kb2040//zmk
+  - board: adafruit_kb2040
     shield: rae_dux_left
-  - board: adafruit_kb2040//zmk
+  - board: adafruit_kb2040
     shield: rae_dux_right
